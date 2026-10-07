@@ -21,6 +21,12 @@ Aquí encontrarás:
 
 Ander es una persona apasionada por los datos, con más de 6 años de experiencia en Inteligencia Artificial y Ciencia de Datos. En DECIDATA, una empresa boutique de proyectos de IA, define, supervisa y ejecuta proyectos de ML de todo tipo: detección de anomalías en carrocerías de vehículos y en procesos de atornillado, predicción del peso de pollos y mucho más.
 
+<div align="center">
+
+![Foto_Ander](ander_fernandez.jpg)
+
+</div>
+
 ## En qué trabaja
 - Diseño y entrenamiento de modelos de Machine Learning que ayudan a los clientes a lograr resultados.
 - Dockerización y puesta en producción de modelos.
