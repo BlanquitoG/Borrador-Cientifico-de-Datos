@@ -11,7 +11,7 @@ Este repositorio presenta a ***Ander Fernández***, Senior Data Scientist en DEC
 
 Aquí encontrarás:
 1. **Su perfil profesional**, extraído de su blog y su LinkedIn personal.
-2. **Un proyecto suyo**, con su descripción y resultados. El proyecto que explicaremos fue ganador del **Cajamar UniversityHack 2020** y trató sobre la empresa ***BlaBlaCar***: 11 millones de datos que debían transformarse en una visualización con valor para el negocio.
+2. **Un proyecto suyo**, con su descripción y resultados. El proyecto que explicaremos fue ganador del **Cajamar UniversityHack 2020** y trató sobre la empresa ***BlaBlaCar*, trabajo en el cuál debían utilizar 11 millones de datos que debían transformar en una visualización con valor para el negocio.
 
 > Fuentes: [anderfernandez.com](https://anderfernandez.com) y su perfil de [LinkedIn](https://www.linkedin.com/in/ander-fernandez/?isSelfProfile)
 
